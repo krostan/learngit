@@ -6,4 +6,3 @@ Creating a new branch is quick and simple.
 st status
 co checkout
 ci commit
-br branch
